@@ -1,4 +1,4 @@
-# Cardputer Adv WebRadio
+# WebRadio_WuSiU - Cardputer Adv
 
 An advanced internet radio for **M5Stack Cardputer Adv** with SD card station list support, Wi-Fi memory, and additional audio features.
 
@@ -99,5 +99,6 @@ https://github.com/cyberwisk/M5Cardputer_WebRadio
 
 
 Original author: cyberwisk
+
 
 
