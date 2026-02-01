@@ -78,7 +78,7 @@ Set the partition scheme to:
 
 This is required to fit the web radio application in flash memory.
 
-![Partition scheme](images/partition%20scheme.jpg)
+![Partition scheme](images/partition_scheme.jpg)
 
 ---
 
@@ -97,3 +97,4 @@ https://github.com/cyberwisk/M5Cardputer_WebRadio
 
 
 Original author: cyberwisk
+
